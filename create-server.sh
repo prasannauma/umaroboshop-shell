@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 ##### Change these values ###
