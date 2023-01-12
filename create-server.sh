@@ -5,7 +5,7 @@ ZONE_ID="Z090620915JFWV927GK62"
 DOMAIN="umadevops.online"
 SG_NAME="allow-all"
 env=dev
-##############################
+#############################
 
 
 
